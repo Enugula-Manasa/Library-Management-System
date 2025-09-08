@@ -48,17 +48,17 @@ This project highlights your skills in:
     👉 http://localhost:8080/api/
 ## 📌 Example Endpoints
 **📘 Books**
--GET    /api/books        → list all books
--POST   /api/books        → add a new book
--GET    /api/books/{id}   → get book by ID
--PUT    /api/books/{id}   → update book
--DELETE /api/books/{id}   → delete book
+- `GET  /api/books        → list all books
+- `POST /api/books`      → add a new book
+- `GET  /api/books/{id}   → get book by ID
+- `PUT  /api/books/{id}`   → update book
+- `DELETE /api/books/{id}`   → delete book
 **🎓 Students**
--GET    /api/students        → list all students
--POST   /api/students        → add a new student
--GET    /api/students/{id}   → get student by ID
--PUT    /api/students/{id}   → update student
--DELETE /api/students/{id}   → delete student
+- `GET  /api/students`        → list all students
+- `POST /api/students`       → add a new student
+- `GET  /api/students/{id}` — get student by id
+- `PUT  /api/students/{id}` — update student
+- `DELETE /api/students/{id}` — delete student
 ## 📝 Notes
 🗄️ Uses H2 in-memory database for simplicity.
 
