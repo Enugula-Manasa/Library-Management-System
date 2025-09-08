@@ -44,7 +44,7 @@ This project highlights your skills in:
    ```bash
    mvn clean package
    mvn spring-boot:run
-5. **Build and run the project:**
+5. **Access the API::**
     👉 http://localhost:8080/api/
 ## 📌 Example Endpoints
 - **📘 Books**
