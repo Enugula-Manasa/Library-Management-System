@@ -47,13 +47,13 @@ This project highlights your skills in:
 5. **Build and run the project:**
     👉 http://localhost:8080/api/
 ## 📌 Example Endpoints
--**📘 Books**
+- **📘 Books**
 - `GET  /api/books        → list all books
 - `POST /api/books`      → add a new book
 - `GET  /api/books/{id}   → get book by ID
 - `PUT  /api/books/{id}`   → update book
 - `DELETE /api/books/{id}`   → delete book
--**🎓 Students**
+- **🎓 Students**
 - `GET  /api/students`        → list all students
 - `POST /api/students`       → add a new student
 - `GET  /api/students/{id}` — get student by id
